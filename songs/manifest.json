@@ -1,0 +1,16 @@
+{
+  "songs": [
+    {
+      "id": "just-fine",
+      "title": "Just Fine",
+      "artist": "Backhouse Mike",
+      "filename": "Backhouse Mike - Just Fine.mp3",
+      "source": "Sam & Cat Theme Song",
+      "tags": [
+        "theme",
+        "custom",
+        "sample"
+      ]
+    }
+  ]
+}
